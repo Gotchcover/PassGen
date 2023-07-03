@@ -172,5 +172,5 @@ def main():
             print("Invalid command. Please try again.")
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__passgen__":
+    passgen()
